@@ -164,14 +164,23 @@ function setLanguage(lang) {
 
 document.addEventListener("DOMContentLoaded", function () {
     const languageSelect = document.getElementById("languageSelect");
+    const langDisplay = document.getElementById("langDisplay");
     const savedLanguage = localStorage.getItem("selectedLanguage") || "en";
+
+    function updateLangDisplay(lang) {
+        if (!langDisplay || !languageSelect) return;
+        const selected = languageSelect.querySelector(`option[value="${lang}"]`);
+        if (selected) langDisplay.textContent = selected.textContent;
+    }
 
     if (languageSelect) {
         languageSelect.value = savedLanguage;
         setLanguage(savedLanguage);
+        updateLangDisplay(savedLanguage);
 
         languageSelect.addEventListener("change", function () {
             setLanguage(this.value);
+            updateLangDisplay(this.value);
         });
     } else {
         setLanguage(savedLanguage);
