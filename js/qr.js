@@ -162,10 +162,21 @@ function setLanguage(lang) {
     }
 }
 
+function detectLanguage() {
+    // Use the primary language tag from the device locale (e.g. "it-IT" → "it")
+    const deviceLang = (navigator.language || navigator.userLanguage || "en")
+        .split("-")[0]
+        .toLowerCase();
+    const supported = ["en", "it", "es"];
+    return supported.includes(deviceLang) ? deviceLang : "en";
+}
+
 document.addEventListener("DOMContentLoaded", function () {
     const languageSelect = document.getElementById("languageSelect");
     const langDisplay = document.getElementById("langDisplay");
-    const savedLanguage = localStorage.getItem("selectedLanguage") || "en";
+
+    // Saved preference takes priority; fall back to device locale, then English
+    const activeLanguage = localStorage.getItem("selectedLanguage") || detectLanguage();
 
     function updateLangDisplay(lang) {
         if (!langDisplay || !languageSelect) return;
@@ -174,15 +185,15 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     if (languageSelect) {
-        languageSelect.value = savedLanguage;
-        setLanguage(savedLanguage);
-        updateLangDisplay(savedLanguage);
+        languageSelect.value = activeLanguage;
+        setLanguage(activeLanguage);
+        updateLangDisplay(activeLanguage);
 
         languageSelect.addEventListener("change", function () {
             setLanguage(this.value);
             updateLangDisplay(this.value);
         });
     } else {
-        setLanguage(savedLanguage);
+        setLanguage(activeLanguage);
     }
 });
