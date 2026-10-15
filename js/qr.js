@@ -93,12 +93,16 @@ const translations = {
         en: {
             subtitle: "Valdobbiadene Prosecco Superiore Millesimato DOCG Brut",
             title: "Nani Dei Berti",
-            ingredients_text: 'Grapes, sugar syrup, preservatives and antioxidants (<strong>sulphites</strong>), acidity regulator (tartaric acid), stabilizing agents (gum arabic).'
+            ingredients_text: 'Grapes, sucrose, preservatives and antioxidants (<strong><u>SULPHITES</u></strong>), acidity regulator (tartaric acid), stabilizing agents (gum arabic).',
+            bottled_text: "Imbottigliato in atmosfera protettiva/bottled in a protective atmosphere.",
+            sugars_label: "di cui Zuccheri/of which sugars"
         },
         it: {
             subtitle: "Valdobbiadene Prosecco Superiore Millesimato DOCG Brut",
             title: "Nani Dei Berti",
-            ingredients_text: 'Uve, sciroppo zuccherino, conservanti e antiossidanti (<strong>solfiti</strong>), correttore di acidità (acido tartarico), agenti stabilizzanti (gomma arabica).'
+            ingredients_text: 'Uve, saccarosio, conservanti e antiossidanti (<strong><u>SOLFITI</u></strong>), correttore di acidità (acido tartarico), agenti stabilizzanti (gomma arabica).',
+            bottled_text: "Imbottigliato in atmosfera protettiva/bottled in a protective atmosphere.",
+            sugars_label: "di cui Zuccheri/of which sugars"
         },
         es: {
             subtitle: "Valdobbiadene Prosecco Superiore Millesimato DOCG Brut",
