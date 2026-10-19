@@ -5842,6 +5842,13 @@ button {
     margin: 0 auto;
 }
 
+.qr-product-page .lugana-product-image {
+    width: 360px;
+    height: 620px;
+    object-fit: cover;
+    object-position: center 45%;
+}
+
 .qr-product-page .product-title-only {
     min-height: 220px;
     display: flex;
@@ -5918,6 +5925,11 @@ button {
 
     .qr-product-page .product-image {
         max-height: 440px;
+    }
+
+    .qr-product-page .lugana-product-image {
+        width: 260px;
+        height: 440px;
     }
 
     .qr-product-page .product-title-only {

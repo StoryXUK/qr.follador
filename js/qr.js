@@ -235,6 +235,34 @@ const translations = {
         }
     },
 
+    lugana: {
+        en: {
+            title: "Lugana",
+            ingredients_text: "INGREDIENTS: grapes, concentrated grape must, stabilising agents (citric acid), acidity regulators (contains malic acid (D,L-/L-) and/or tartaric acid (L(+)-) and/or citric acid), preservatives and antioxidants (<strong><u>SULPHITES</u></strong>).",
+            bottled_text: "Bottled in a protective atmosphere.",
+            nutrition_heading: "Nutrition declaration",
+            nutrition_basis: "per 100 ml",
+            energy_value: "330 kJ / 79 kcal",
+            carbohydrate_value: "1 g",
+            sugars_value: "0.4 g",
+            salt_value: "0 g"
+        },
+        it: {
+            title: "Lugana",
+            ingredients_text: "INGREDIENTI: uve, mosto di uve concentrato, agenti stabilizzanti (acido citrico), regolatori di acidità (contiene acido malico (D,L-/L-) e/o acido tartarico (L(+)-) e/o acido citrico), conservanti e antiossidanti (<strong><u>SOLFITI</u></strong>).",
+            bottled_text: "Imbottigliato in atmosfera protettiva.",
+            nutrition_heading: "Dichiarazione nutrizionale",
+            nutrition_basis: "per 100 ml",
+            energy_label: "Valore energetico",
+            sugars_label: "di cui zuccheri",
+            recycling_heading: "Tabella ambientale",
+            energy_value: "330 kJ / 79 kcal",
+            carbohydrate_value: "1 g",
+            sugars_value: "0,4 g",
+            salt_value: "0 g"
+        }
+    },
+
     "nani-dei-berti": {
         en: {
             subtitle: "Valdobbiadene Prosecco Superiore Millesimato DOCG Brut",
@@ -272,7 +300,7 @@ function getPageKey() {
 
 function getMergedTranslations(pageKey, lang) {
     const globalSet = (translations.global && translations.global[lang]) || {};
-    const productPages = ["azzurra", "joani", "brut", "extra-dry", "rose"];
+    const productPages = ["azzurra", "joani", "brut", "extra-dry", "rose", "lugana"];
     const productSet = productPages.includes(pageKey)
         ? (translations.product && translations.product[lang]) || {}
         : {};
