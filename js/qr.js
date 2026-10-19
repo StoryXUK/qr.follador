@@ -263,6 +263,186 @@ const translations = {
         }
     },
 
+    aeris: {
+        en: {
+            subtitle: "Prosecco DOC Frizzante",
+            title: "Aeris",
+            ingredients_text: "INGREDIENTS: grapes, concentrated must, preservatives and antioxidants (<strong><u>SULPHITES</u></strong>), acidity regulator (tartaric acid), stabilizing agents (gum arabic).",
+            bottled_text: "Bottled in a protective atmosphere.",
+            energy_value: "293 kJ / 70 kcal",
+            carbohydrate_value: "1.3 g",
+            sugars_value: "1.3 g",
+            salt_value: "0.01 g",
+            cap_label: "Cap",
+            cap_material: "Steel"
+        },
+        it: {
+            subtitle: "Prosecco DOC Frizzante",
+            title: "Aeris",
+            ingredients_text: "INGREDIENTI: uve, mosto concentrato, conservanti e antiossidanti (<strong><u>SOLFITI</u></strong>), correttore di acidità (acido tartarico), agenti stabilizzanti (gomma arabica).",
+            bottled_text: "Imbottigliato in atmosfera protettiva.",
+            energy_value: "293 kJ / 70 kcal",
+            carbohydrate_value: "1,3 g",
+            sugars_value: "1,3 g",
+            sugars_label: "di cui zuccheri",
+            salt_value: "0,01 g",
+            cap_label: "Tappo",
+            cap_material: "Acciaio"
+        }
+    },
+
+    "doc-dry": {
+        en: {
+            subtitle: "Prosecco DOC Treviso Dry",
+            title: "Azzurra",
+            ingredients_text: "INGREDIENTS: grapes, sucrose, preservatives and antioxidants (<strong><u>SULPHITES</u></strong>), acidity regulator (tartaric acid), stabilizing agents (gum arabic).",
+            bottled_text: "Bottled in a protective atmosphere.",
+            energy_value: "312 kJ / 75 kcal",
+            carbohydrate_value: "2 g",
+            sugars_value: "2 g",
+            salt_value: "0.01 g"
+        },
+        it: {
+            subtitle: "Prosecco DOC Treviso Dry",
+            title: "Azzurra",
+            ingredients_text: "INGREDIENTI: uve, saccarosio, conservanti e antiossidanti (<strong><u>SOLFITI</u></strong>), correttore di acidità (acido tartarico), agenti stabilizzanti (gomma arabica).",
+            bottled_text: "Imbottigliato in atmosfera protettiva.",
+            energy_value: "312 kJ / 75 kcal",
+            carbohydrate_value: "2 g",
+            sugars_value: "2 g",
+            sugars_label: "di cui zuccheri",
+            salt_value: "0,01 g"
+        }
+    },
+
+    "el-brolo": {
+        en: {
+            subtitle: "Prosecco DOC Treviso Brut",
+            title: "El Brolo",
+            ingredients_text: "INGREDIENTS: grapes, sucrose, preservatives and antioxidants (<strong><u>SULPHITES</u></strong>), acidity regulator (tartaric acid), stabilizing agents (gum arabic).",
+            bottled_text: "Bottled in a protective atmosphere.",
+            energy_value: "293 kJ / 70 kcal",
+            carbohydrate_value: "1 g",
+            sugars_value: "1 g",
+            salt_value: "0.01 g"
+        },
+        it: {
+            subtitle: "Prosecco DOC Treviso Brut",
+            title: "El Brolo",
+            ingredients_text: "INGREDIENTI: uve, saccarosio, conservanti e antiossidanti (<strong><u>SOLFITI</u></strong>), correttore di acidità (acido tartarico), agenti stabilizzanti (gomma arabica).",
+            bottled_text: "Imbottigliato in atmosfera protettiva.",
+            energy_value: "293 kJ / 70 kcal",
+            carbohydrate_value: "1 g",
+            sugars_value: "1 g",
+            sugars_label: "di cui zuccheri",
+            salt_value: "0,01 g"
+        }
+    },
+
+    "aeris-piccolo": {
+        en: {
+            subtitle: "Prosecco DOC Frizzante",
+            title: "PROSECCO DOC TREVISO FRIZZANTE AERIS PICCOLO",
+            ingredients_text: "INGREDIENTS: grapes, concentrated grape must, preservatives and antioxidants (<strong><u>SULPHITES</u></strong>), acidity regulators (tartaric acid, malic acid, citric acid).",
+            bottled_text: "Bottled in a protected atmosphere.",
+            energy_value: "276 kJ / 66 kcal",
+            carbohydrate_value: "1.8 g",
+            sugars_value: "1.2 g",
+            salt_value: "0.01 g",
+            cap_label: "Cap",
+            cap_material: "Aluminium"
+        },
+        it: {
+            subtitle: "Prosecco DOC Frizzante",
+            title: "PROSECCO DOC TREVISO FRIZZANTE AERIS PICCOLO",
+            ingredients_text: "INGREDIENTI: uve, mosto di uve concentrato, conservanti e antiossidanti (<strong><u>SOLFITI</u></strong>), regolatori di acidità (acido tartarico, acido malico, acido citrico).",
+            bottled_text: "Imbottigliato in atmosfera protetta.",
+            energy_value: "276 kJ / 66 kcal",
+            carbohydrate_value: "1,8 g",
+            sugars_value: "1,2 g",
+            sugars_label: "di cui zuccheri",
+            salt_value: "0,01 g",
+            cap_label: "Tappo",
+            cap_material: "Alluminio"
+        }
+    },
+
+    runier: {
+        en: {
+            subtitle: "Spumante Prosecco DOC Treviso Extra Dry",
+            title: "Runiér",
+            ingredients_text: "INGREDIENTS: grapes, sucrose, preservatives and antioxidants (<strong><u>SULPHITES</u></strong>), acidity regulator (tartaric acid), stabilizing agents (gum arabic).",
+            bottled_text: "Bottled in a protective atmosphere.",
+            energy_value: "300 kJ / 72 kcal",
+            carbohydrate_value: "1.8 g",
+            sugars_value: "1.8 g",
+            salt_value: "0.01 g"
+        },
+        it: {
+            subtitle: "Spumante Prosecco DOC Treviso Extra Dry",
+            title: "Runiér",
+            ingredients_text: "INGREDIENTI: uve, saccarosio, conservanti e antiossidanti (<strong><u>SOLFITI</u></strong>), correttore di acidità (acido tartarico), agenti stabilizzanti (gomma arabica).",
+            bottled_text: "Imbottigliato in atmosfera protettiva.",
+            energy_value: "300 kJ / 72 kcal",
+            carbohydrate_value: "1,8 g",
+            sugars_value: "1,8 g",
+            sugars_label: "di cui zuccheri",
+            salt_value: "0,01 g"
+        }
+    },
+
+    spago: {
+        en: {
+            subtitle: "Prosecco DOC Treviso Frizzante",
+            title: "Spago",
+            ingredients_text: "INGREDIENTS: grapes, concentrated must, preservatives and antioxidants (<strong><u>SULPHITES</u></strong>), acidity regulator (tartaric acid), stabilizing agents (gum arabic).",
+            bottled_text: "Bottled in a protective atmosphere.",
+            energy_value: "293 kJ / 70 kcal",
+            carbohydrate_value: "1.2 g",
+            sugars_value: "1.2 g",
+            salt_value: "0.01 g",
+            string_label: "String",
+            string_material: "Textile"
+        },
+        it: {
+            subtitle: "Prosecco DOC Treviso Frizzante",
+            title: "Spago",
+            ingredients_text: "INGREDIENTI: uve, mosto concentrato, conservanti e antiossidanti (<strong><u>SOLFITI</u></strong>), correttore di acidità (acido tartarico), agenti stabilizzanti (gomma arabica).",
+            bottled_text: "Imbottigliato in atmosfera protettiva.",
+            energy_value: "293 kJ / 70 kcal",
+            carbohydrate_value: "1,2 g",
+            sugars_value: "1,2 g",
+            sugars_label: "di cui zuccheri",
+            salt_value: "0,01 g",
+            string_label: "Spago",
+            string_material: "Tessile"
+        }
+    },
+
+    valbon: {
+        en: {
+            subtitle: "SPUMANTE PROSECCO DOC TREVISO BRUT",
+            title: "Vàlbon",
+            ingredients_text: "INGREDIENTS: grapes, sucrose, preservatives and antioxidants (<strong><u>SULPHITES</u></strong>), acidity regulator (tartaric acid), stabilizing agents (gum arabic).",
+            bottled_text: "Bottled in a protective atmosphere.",
+            energy_value: "293 kJ / 70 kcal",
+            carbohydrate_value: "0.8 g",
+            sugars_value: "0.8 g",
+            salt_value: "0.01 g"
+        },
+        it: {
+            subtitle: "SPUMANTE PROSECCO DOC TREVISO BRUT",
+            title: "Vàlbon",
+            ingredients_text: "INGREDIENTI: uve, saccarosio, conservanti e antiossidanti (<strong><u>SOLFITI</u></strong>), correttore di acidità (acido tartarico), agenti stabilizzanti (gomma arabica).",
+            bottled_text: "Imbottigliato in atmosfera protettiva.",
+            energy_value: "293 kJ / 70 kcal",
+            carbohydrate_value: "0,8 g",
+            sugars_value: "0,8 g",
+            sugars_label: "di cui zuccheri",
+            salt_value: "0,01 g"
+        }
+    },
+
     "nani-dei-berti": {
         en: {
             subtitle: "Valdobbiadene Prosecco Superiore Millesimato DOCG Brut",
@@ -282,8 +462,8 @@ const translations = {
     },
 
     farder: {
-        en: { subtitle: "SPUMANTE PROSECCO DOC TREVISO EXTRA DRY", title: "Fardér", ingredients_text: "Grapes, sugar syrup, preservatives and antioxidants (<strong>sulphites</strong>), stabilizing agents (gum arabic)." },
-        it: { subtitle: "SPUMANTE PROSECCO DOC TREVISO EXTRA DRY", title: "Fardér", ingredients_text: "Uve, sciroppo zuccherino, conservanti e antiossidanti (<strong>solfiti</strong>), agenti stabilizzanti (gomma arabica)." },
+        en: { subtitle: "SPUMANTE PROSECCO DOC TREVISO EXTRA DRY", title: "Fardér", ingredients_text: "INGREDIENTS: grapes, sucrose, preservatives and antioxidants (<strong><u>SULPHITES</u></strong>), acidity regulator (tartaric acid), stabilizing agents (gum arabic).", bottled_text: "Bottled in a protective atmosphere.", energy_value: "300 kJ / 72 kcal", carbohydrate_value: "1.6 g", sugars_value: "1.6 g", salt_value: "0.01 g", sugars_label: "of which sugars", recycling_note: "Check your municipality’s specific recycling guidelines." },
+        it: { subtitle: "SPUMANTE PROSECCO DOC TREVISO EXTRA DRY", title: "Fardér", ingredients_text: "INGREDIENTI: uve, saccarosio, conservanti e antiossidanti (<strong><u>SOLFITI</u></strong>), correttore di acidità (acido tartarico), agenti stabilizzanti (gomma arabica).", bottled_text: "Imbottigliato in atmosfera protettiva.", energy_value: "300 kJ / 72 kcal", carbohydrate_value: "1,6 g", sugars_value: "1,6 g", salt_value: "0,01 g", sugars_label: "di cui zuccheri", recycling_note: "Verifica il sistema di raccolta del tuo comune." },
         es: { subtitle: "ESPUMOSO PROSECCO DOC TREVISO EXTRA DRY", title: "Fardér", ingredients_text: "Uvas, jarabe de azúcar, conservantes y antioxidantes (<strong>sulfitos</strong>), agentes estabilizantes (goma arábiga)." }
     },
 
@@ -300,7 +480,7 @@ function getPageKey() {
 
 function getMergedTranslations(pageKey, lang) {
     const globalSet = (translations.global && translations.global[lang]) || {};
-    const productPages = ["azzurra", "joani", "brut", "extra-dry", "rose", "lugana"];
+    const productPages = ["azzurra", "joani", "brut", "extra-dry", "rose", "lugana", "aeris", "doc-dry", "el-brolo", "farder", "aeris-piccolo", "runier", "spago", "valbon"];
     const productSet = productPages.includes(pageKey)
         ? (translations.product && translations.product[lang]) || {}
         : {};
