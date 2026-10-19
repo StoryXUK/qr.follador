@@ -1,202 +1,89 @@
 <!DOCTYPE html>
-<html lang="zxx">
-
+<html lang="en">
 <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <title>Follador</title>
-    <link rel="shortcut icon" href="img/favicon.png" />
-    <link rel="stylesheet"
-        href="https://fonts.googleapis.com/css2?family=Barlow&family=Barlow+Condensed&family=Gilda+Display&display=swap">
-    <link rel="stylesheet" href="css/plugins.css" />
-    <link rel="stylesheet" href="css/style.css" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>Joani | Follador</title>
+    <link rel="shortcut icon" href="img/favicon.png">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow&family=Barlow+Condensed&family=Gilda+Display&display=swap">
+    <link rel="stylesheet" href="css/plugins.css">
+    <link rel="stylesheet" href="css/style.css">
 </head>
-
-<body>
-    <!-- Preloader -->
-    <div class="preloader-bg"></div>
-    <div id="preloader">
-        <div id="preloader-status">
-            <div class="preloader-position loader"> <span></span> </div>
+<body class="qr-product-page" data-page="joani">
+    <div class="language-switcher-wrap">
+        <div class="language-switcher">
+            <label for="languageSelect" data-i18n="language_label">Language</label>
+            <span class="lang-display" id="langDisplay">🇬🇧 English</span>
+            <select id="languageSelect" aria-label="Select language">
+                <option value="en">🇬🇧 English</option>
+                <option value="it">🇮🇹 Italiano</option>
+            </select>
         </div>
     </div>
-    <!-- Progress scroll totop -->
-    <div class="progress-wrap cursor-pointer">
-        <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
-            <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
-        </svg>
-    </div>
 
+    <main>
+        <section class="about section-padding">
+            <div class="container"><div class="row align-items-center">
+                <div class="col-md-6">
+                    <img src="img/prosecco/Sparkling/joani.jpg" alt="Joani bottle" class="product-image">
+                </div>
+                <div class="col-md-6 mt-90 text-center">
+                    <div class="section-subtitle max-width-75" data-i18n="subtitle">Millesimato Extra Dry</div>
+                    <h1 class="section-title" data-i18n="title">Joani</h1>
+                </div>
+            </div></div>
+        </section>
 
+        <section class="container qr-section">
+            <h2 data-i18n="ingredients_heading">Ingredients</h2>
+            <p data-i18n="ingredients_text">INGREDIENTS: Grapes, sucrose, preservatives and antioxidants (<strong><u>SULPHITES</u></strong>), acidity regulator (tartaric acid), stabilising agent (gum arabic)</p>
+            <p data-i18n="bottled_text">Bottled in a protective atmosphere</p>
+        </section>
 
+        <section class="container qr-section">
+            <h2 data-i18n="nutrition_heading">Nutritional declaration per 100 ml</h2>
+            <table class="nutrition-table">
+                <tbody>
+                    <tr><th scope="row" data-i18n="energy_label">Energy</th><td data-i18n="energy_value">300 kJ / 72 kcal</td></tr>
+                    <tr><th scope="row" data-i18n="fat_label">Fat</th><td>0 g</td></tr>
+                    <tr><th scope="row" data-i18n="saturates_label">of which saturates</th><td>0 g</td></tr>
+                    <tr><th scope="row" data-i18n="carbohydrates_label">Carbohydrate</th><td data-i18n="carbohydrate_value">1.5 g</td></tr>
+                    <tr><th scope="row" data-i18n="sugars_label">of which sugars</th><td data-i18n="sugars_value">1.5 g</td></tr>
+                    <tr><th scope="row" data-i18n="protein_label">Protein</th><td>0 g</td></tr>
+                    <tr><th scope="row" data-i18n="salt_label">Salt</th><td data-i18n="salt_value">0.01 g</td></tr>
+                </tbody>
+            </table>
+        </section>
 
-
-
-
-
-
-
-    <section class="about section-padding">
-        <div class="container">
+        <section class="container qr-section mb-30">
+            <h2><img class="rec_img" src="img/recycling/Recycling_Symbol 2.jpg" alt=""><span data-i18n="recycling_heading">Recycling information</span></h2>
             <div class="row">
-                <div class="col col-md-6 animate-box" data-animate-effect="fadeInUp">
-                    <img src="img/prosecco/Sparkling/joani.jpg" alt="Kleofe bottle" class="mb-30">
+                <div class="col-6 col-md-3 recycling-card">
+                    <h3 data-i18n="bottle_label">Bottle</h3><p data-i18n="bottle_material">Glass</p>
+                    <div class="recycling-code">GL 70</div><img class="rec_img" src="img/recycling/GL 70.png" alt="GL 70">
+                    <p class="recycling-disposal" data-i18n="waste_sorting">Waste sorting</p>
                 </div>
-                <div class="col-md-6 mt-90 animate-box text-center" data-animate-effect="fadeInUp">
-
-                    <div class="section-subtitle max-width-75">Millesimato Extra Dry</div>
-                    <div class="section-title">
-                        Joani</div>
-
-
-
+                <div class="col-6 col-md-3 recycling-card">
+                    <h3 data-i18n="capsule_label">Capsule</h3><p data-i18n="capsule_material">Aluminium</p>
+                    <div class="recycling-code">ALU 41</div><img class="rec_img" src="img/recycling/ALU 41.jpg" alt="ALU 41">
+                    <p class="recycling-disposal" data-i18n="waste_sorting">Waste sorting</p>
                 </div>
-
-
-
-
-            </div>
-
-
-
-        </div>
-    </section>
-
-
-
-    <section class="mt-30">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-
-                    <h3>Ingredients | Ingredienti</h3>
-                    <p>Grapes, sugar syrup, preservatives and antioxidants (<strong>sulphites</strong>) acidity regulator (tartaric acid), stabilizing agents (gum arabic). </p>
- <p>uve, sciroppo zuccherino, conservanti e antiossidanti (<strong>solfiti</strong>) agenti stabilizzanti (acido tartarico), agenti stabilizzanti (gomma arabica).</p>
-                        <p>Bottled in a protected atmosphere.</p>
-<p>Imbottigliato in atmosfera protetta.</p>
+                <div class="col-6 col-md-3 recycling-card">
+                    <h3 data-i18n="wirehood_label">Wirehood</h3><p data-i18n="wirehood_material">Steel</p>
+                    <div class="recycling-code">FE40</div><img class="rec_img" src="img/recycling/FE 40.jpg" alt="FE40">
+                    <p class="recycling-disposal" data-i18n="waste_sorting">Waste sorting</p>
+                </div>
+                <div class="col-6 col-md-3 recycling-card">
+                    <h3 data-i18n="stopper_label">Stopper</h3><p data-i18n="stopper_material">Cork</p>
+                    <div class="recycling-code">FOR 51</div><img class="rec_img" src="img/recycling/FOR 51.jpg" alt="FOR 51">
+                    <p class="recycling-disposal" data-i18n="organic_waste">Organic waste</p>
                 </div>
             </div>
-        </div>
-    </section>
+            <p class="recycling-note" data-i18n="recycling_note">Check your municipality’s specific recycling guidelines.</p>
+        </section>
+    </main>
 
-
-
-
-    <!-- //////////////////////////// Additional Information //////////////////////////// -->
-
-
-
-
-    <section class="container mt-90">
-
-        <div class="row">
-            <div class="col-md-12">
-
-                <h3>Nutritional value | Dichiarazione Nutrizionale</h3>
-
-
-                <div class="row">
-                    <div class="col-7 mt-90 ">
-                        <h5 class="nutrition">Energy Value | Valore Energetico/Energia</h5>
-                        <h5 class="nutrition">Fats | Grassi</h5>
-                        <h5 class="nutrition">Saturated Fats | Acidi Grassi</h5>
-                        <h5 class="nutrition">Carbohydrates | Carboidrati</h5>
-                        <h5 class="nutrition">Sugars | Zuccheri</h5>
-                        <h5 class="nutrition">Proteins | Proteine</h5>
-                        <h5 class="nutrition">Salt | Sale</h5>
-
-                    </div>
-
-                    <div class="col-5 mt-90 ">
-                        <p class="nutrition">300 KJ/100ml - 72 Kcal/100ml</p>
-                                            <p class="nutrition">0 g</p>
-                                            <p class="nutrition">0 g</p>
-                                            <p class="nutrition">1.5 g</p>
-                                            <p class="nutrition">1.5 g</p>
-                                            <p class="nutrition">0 g</p>
-                                            <p class="nutrition">0.01 g</p>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </section>
-
-
-    <section class="container mt-90 mb-30">
-        
-            <div class="row">
-
-                <span>
-                    <h3><img class="rec_img" src="img/recycling/Recycling_Symbol 2.jpg">Recycling information | Tabella ambientale</h3>
-                </span>
-            </div>
-
-
-            <div class="row">
-                <div class="col-md-3 mt-90">
-                    <h4>Bottle | Bottiglia</h4>
-                    <p>Glass | Vetro</p>
-                    <div class="text">GL 70</div>
-
-                    <img class="rec_img" src="img/recycling/GL 70.png">
-                </div>
-
-                <div class="col-md-3 mt-90">
-                    <h4>Cap | Capsula</h4>
-                    <p>Aluminium | Alluminio</p>
-                    <div class="text">ALU 41</div>
-
-                    <img class="rec_img" src="img/recycling/ALU 41.jpg">
-                </div>
-
-                <div class="col-md-3 mt-90">
-                    <h4>Wirehood | Gabbietta</h4>
-                    <p>Steel | Acciaio</p>
-                    <div class="text">FE 40</div>
-
-                    <img class="rec_img" src="img/recycling/FE 40.jpg">
-                </div>
-
-                <div class="col-md-3 mt-90">
-                    <h4>Stopper | Tappo</h4>
-                    <p>Cork | Sughero</p>
-                    <div class="text">FOR 51</div>
-                    <img class="rec_img" src="img/recycling/FOR 51.jpg">
-
-
-
-                </div>
-            </div>
-            <p class="mt-15">Check your municipality's specific recycling guidelines | Verifica le linee guida specifiche per il riciclo del tuo comune.</p>
-        
-
-
-    </section>
-
-
-
-
-    <!-- jQuery -->
-    <script src="js/jquery-3.6.3.min.js"></script>
-    <script src="js/jquery-migrate-3.0.0.min.js"></script>
-    <script src="js/modernizr-2.6.2.min.js"></script>
-    <script src="js/imagesloaded.pkgd.min.js"></script>
-    <script src="js/jquery.isotope.v3.0.2.js"></script>
-    <script src="js/pace.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/scrollIt.min.js"></script>
-    <script src="js/jquery.waypoints.min.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/jquery.stellar.min.js"></script>
-    <script src="js/jquery.magnific-popup.js"></script>
-    <script src="js/YouTubePopUp.js"></script>
-    <script src="js/select2.js"></script>
-    <script src="js/datepicker.js"></script>
-    <script src="js/smooth-scroll.min.js"></script>
-    <script src="js/custom.js"></script>
+    <script src="js/qr.js"></script>
 </body>
-
 </html>

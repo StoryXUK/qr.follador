@@ -5821,3 +5821,128 @@ button {
             
             opacity: 0.9;
         }
+
+/* QR product information pages */
+.qr-product-page .language-switcher-wrap {
+    position: relative;
+    z-index: 2;
+}
+
+.qr-product-page .about.section-padding {
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
+.qr-product-page .product-image {
+    display: block;
+    width: 100%;
+    max-width: 520px;
+    max-height: 680px;
+    object-fit: contain;
+    margin: 0 auto;
+}
+
+.qr-product-page .product-title-only {
+    min-height: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.qr-product-page .qr-section {
+    margin-top: 55px;
+}
+
+.qr-product-page .nutrition-table {
+    width: 100%;
+    max-width: 760px;
+    border-collapse: collapse;
+    font-size: 16px;
+}
+
+.qr-product-page .nutrition-table th,
+.qr-product-page .nutrition-table td {
+    border-bottom: 1px solid #e6e1dc;
+    padding: 11px 8px;
+    vertical-align: top;
+}
+
+.qr-product-page .nutrition-table th {
+    width: 62%;
+    color: #222;
+    font-weight: 500;
+}
+
+.qr-product-page .nutrition-table td {
+    text-align: right;
+    white-space: nowrap;
+}
+
+.qr-product-page .recycling-card {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.qr-product-page .recycling-card h4,
+.qr-product-page .recycling-card p {
+    margin-bottom: 6px;
+}
+
+.qr-product-page .recycling-code {
+    color: #222;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.qr-product-page .recycling-disposal {
+    min-height: 48px;
+}
+
+.qr-product-page .recycling-note {
+    margin-top: 30px;
+}
+
+@media screen and (max-width: 767px) {
+    .qr-product-page .language-switcher-wrap {
+        padding: 12px 12px 0;
+    }
+
+    .qr-product-page .about.section-padding {
+        padding-top: 20px;
+        padding-bottom: 15px;
+    }
+
+    .qr-product-page .about .mt-90 {
+        margin-top: 20px !important;
+    }
+
+    .qr-product-page .product-image {
+        max-height: 440px;
+    }
+
+    .qr-product-page .product-title-only {
+        min-height: 150px;
+    }
+
+    .qr-product-page .section-title {
+        font-size: 34px;
+        line-height: 1.15;
+    }
+
+    .qr-product-page .qr-section {
+        margin-top: 38px;
+    }
+
+    .qr-product-page .nutrition-table {
+        font-size: 14px;
+    }
+
+    .qr-product-page .nutrition-table th,
+    .qr-product-page .nutrition-table td {
+        padding: 9px 5px;
+    }
+
+    .qr-product-page .nutrition-table th {
+        width: 56%;
+    }
+}
