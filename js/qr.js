@@ -457,20 +457,20 @@ const translations = {
         es: {
             subtitle: "Valdobbiadene Prosecco Superiore Millesimato DOCG Brut",
             title: "Nani Dei Berti",
-            ingredients_text: "Uvas, jarabe de azúcar, conservantes y antioxidantes (<strong>sulfitos</strong>), corrector de acidez (ácido tartárico), agentes estabilizantes (goma arábiga)."
+            ingredients_text: "Uvas, jarabe de azúcar, conservantes y antioxidantes (<strong><u>sulfitos</u></strong>), corrector de acidez (ácido tartárico), agentes estabilizantes (goma arábiga)."
         }
     },
 
     farder: {
         en: { subtitle: "SPUMANTE PROSECCO DOC TREVISO EXTRA DRY", title: "Fardér", ingredients_text: "INGREDIENTS: grapes, sucrose, preservatives and antioxidants (<strong><u>SULPHITES</u></strong>), acidity regulator (tartaric acid), stabilizing agents (gum arabic).", bottled_text: "Bottled in a protective atmosphere.", energy_value: "300 kJ / 72 kcal", carbohydrate_value: "1.6 g", sugars_value: "1.6 g", salt_value: "0.01 g", sugars_label: "of which sugars", recycling_note: "Check your municipality’s specific recycling guidelines." },
         it: { subtitle: "SPUMANTE PROSECCO DOC TREVISO EXTRA DRY", title: "Fardér", ingredients_text: "INGREDIENTI: uve, saccarosio, conservanti e antiossidanti (<strong><u>SOLFITI</u></strong>), correttore di acidità (acido tartarico), agenti stabilizzanti (gomma arabica).", bottled_text: "Imbottigliato in atmosfera protettiva.", energy_value: "300 kJ / 72 kcal", carbohydrate_value: "1,6 g", sugars_value: "1,6 g", salt_value: "0,01 g", sugars_label: "di cui zuccheri", recycling_note: "Verifica il sistema di raccolta del tuo comune." },
-        es: { subtitle: "ESPUMOSO PROSECCO DOC TREVISO EXTRA DRY", title: "Fardér", ingredients_text: "Uvas, jarabe de azúcar, conservantes y antioxidantes (<strong>sulfitos</strong>), agentes estabilizantes (goma arábiga)." }
+        es: { subtitle: "ESPUMOSO PROSECCO DOC TREVISO EXTRA DRY", title: "Fardér", ingredients_text: "Uvas, jarabe de azúcar, conservantes y antioxidantes (<strong><u>sulfitos</u></strong>), agentes estabilizantes (goma arábiga)." }
     },
 
     "cuvee-rose": {
         en: { subtitle: "Spumante brut", title: "Cuvée Rosé", ingredients_text: "Grapes, sugar syrup, preservatives and antioxidants (<strong><u>SULPHITES</u></strong>), stabilizing agents (gum arabic)." },
         it: { subtitle: "Spumante brut", title: "Cuvée Rosé", ingredients_text: "Uve, sciroppo zuccherino, conservanti e antiossidanti (<strong><u>SOLFITI</u></strong>), agenti stabilizzanti (gomma arabica)." },
-        es: { subtitle: "Espumante brut", title: "Cuvée Rosé", ingredients_text: "Uvas, jarabe de azúcar, conservantes y antioxidantes (<strong>sulfitos</strong>), agentes estabilizantes (goma arábiga)." }
+        es: { subtitle: "Espumante brut", title: "Cuvée Rosé", ingredients_text: "Uvas, jarabe de azúcar, conservantes y antioxidantes (<strong><u>sulfitos</u></strong>), agentes estabilizantes (goma arábiga)." }
     }
 };
 

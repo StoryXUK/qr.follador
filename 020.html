@@ -14,6 +14,16 @@
 </head>
 
 <body>
+    <div class="language-switcher-wrap">
+        <div class="language-switcher">
+            <label for="languageSelect" data-i18n="language_label">Language</label>
+            <span class="lang-display" id="langDisplay">🇬🇧 English</span>
+            <select id="languageSelect" aria-label="Select language">
+                <option value="en">🇬🇧 English</option>
+                <option value="it">🇮🇹 Italiano</option>
+            </select>
+        </div>
+    </div>
     <!-- Preloader -->
     <div class="preloader-bg"></div>
     <div id="preloader">
@@ -72,7 +82,7 @@
 
                     <h3>Ingredients</h3>
                     <p>Grapes, concentrated must, liquer de tirage ,regularizers of acidity (acidity regulator (tartaric acid), malic acid,
-                        citric acid), preservatives and antioxidants (sulphites),
+                        citric acid), preservatives and antioxidants (<strong><u>sulphites</u></strong>),
                         bottled in a protective atmosphere</p>
 
                 </div>
@@ -198,6 +208,7 @@
     <script src="js/datepicker.js"></script>
     <script src="js/smooth-scroll.min.js"></script>
     <script src="js/custom.js"></script>
+    <script src="js/qr.js"></script>
 </body>
 
 </html>
