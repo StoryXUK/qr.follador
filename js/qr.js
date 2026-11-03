@@ -141,7 +141,7 @@ const translations = {
     azzurra: {
         en: {
             title: "Spumante Bianco Dry Azzurra",
-            ingredients_text: "INGREDIENTS: Grapes, sugar, preservatives and antioxidants (<strong><u>SULPHITES</u></strong>), acidity regulator (tartaric acid), stabilizing agents (gum arabic)",
+            ingredients_text: "INGREDIENTS: Grapes, sugar, preservatives and antioxidants (<strong><u>sulphites</u></strong>), acidity regulator (tartaric acid), stabilizing agents (gum arabic)",
             energy_value: "312 kJ / 75 kcal",
             carbohydrate_value: "2 g",
             sugars_value: "2 g",
@@ -149,7 +149,7 @@ const translations = {
         },
         it: {
             title: "Spumante Bianco Dry Azzurra",
-            ingredients_text: "INGREDIENTI: uve, saccarosio, conservanti e antiossidanti (<strong><u>SOLFITI</u></strong>), correttore di acidità (acido tartarico), agenti stabilizzanti (gomma arabica)",
+            ingredients_text: "INGREDIENTI: uve, saccarosio, conservanti e antiossidanti (<strong><u>solfiti</u></strong>), correttore di acidità (acido tartarico), agenti stabilizzanti (gomma arabica)",
             energy_value: "312 kJ / 75 kcal",
             carbohydrate_value: "2 g",
             sugars_value: "2 g",
@@ -161,7 +161,7 @@ const translations = {
         en: {
             subtitle: "Millesimato Extra Dry",
             title: "Joani",
-            ingredients_text: "INGREDIENTS: Grapes, sucrose, preservatives and antioxidants (<strong><u>SULPHITES</u></strong>), acidity regulator (tartaric acid), stabilising agent (gum arabic)",
+            ingredients_text: "INGREDIENTS: Grapes, sucrose, preservatives and antioxidants (<strong><u>sulphites</u></strong>), acidity regulator (tartaric acid), stabilising agent (gum arabic)",
             energy_value: "300 kJ / 72 kcal",
             carbohydrate_value: "1.5 g",
             sugars_value: "1.5 g",
@@ -170,7 +170,7 @@ const translations = {
         it: {
             subtitle: "Millesimato Extra Dry",
             title: "Joani",
-            ingredients_text: "INGREDIENTI: uve, saccarosio, conservanti e antiossidanti (<strong><u>SOLFITI</u></strong>), correttore di acidità (acido tartarico), agente stabilizzante (gomma arabica)",
+            ingredients_text: "INGREDIENTI: uve, saccarosio, conservanti e antiossidanti (<strong><u>solfiti</u></strong>), correttore di acidità (acido tartarico), agente stabilizzante (gomma arabica)",
             energy_value: "300 kJ / 72 kcal",
             carbohydrate_value: "1,5 g",
             sugars_value: "1,5 g",
@@ -181,7 +181,7 @@ const translations = {
     brut: {
         en: {
             title: "Prosecco DOC Brut",
-            ingredients_text: "INGREDIENTS: Grapes, sugar, preservatives and antioxidants (<strong><u>SULPHITES</u></strong>), stabilizing agents (gum arabic)",
+            ingredients_text: "INGREDIENTS: Grapes, sugar, preservatives and antioxidants (<strong><u>sulphites</u></strong>), stabilizing agents (gum arabic)",
             energy_value: "256 kJ / 61 kcal",
             carbohydrate_value: "0.8 g",
             sugars_value: "0.8 g",
@@ -189,7 +189,7 @@ const translations = {
         },
         it: {
             title: "Prosecco DOC Brut",
-            ingredients_text: "INGREDIENTI: uve, saccarosio, conservanti e antiossidanti (<strong><u>SOLFITI</u></strong>), agenti stabilizzanti (gomma arabica)",
+            ingredients_text: "INGREDIENTI: uve, saccarosio, conservanti e antiossidanti (<strong><u>solfiti</u></strong>), agenti stabilizzanti (gomma arabica)",
             energy_value: "256 kJ / 61 kcal",
             carbohydrate_value: "0,8 g",
             sugars_value: "0,8 g",
@@ -200,7 +200,7 @@ const translations = {
     "extra-dry": {
         en: {
             title: "Prosecco DOC EXTRA DRY",
-            ingredients_text: "INGREDIENTS: Grapes, sugar, preservatives and antioxidants (<strong><u>SULPHITES</u></strong>), stabilizing agents (gum arabic)",
+            ingredients_text: "INGREDIENTS: Grapes, sugar, preservatives and antioxidants (<strong><u>sulphites</u></strong>), stabilizing agents (gum arabic)",
             energy_value: "272 kJ / 65 kcal",
             carbohydrate_value: "1.6 g",
             sugars_value: "1.6 g",
@@ -208,7 +208,7 @@ const translations = {
         },
         it: {
             title: "Prosecco DOC EXTRA DRY",
-            ingredients_text: "INGREDIENTI: uve, saccarosio, conservanti e antiossidanti (<strong><u>SOLFITI</u></strong>), agenti stabilizzanti (gomma arabica)",
+            ingredients_text: "INGREDIENTI: uve, saccarosio, conservanti e antiossidanti (<strong><u>solfiti</u></strong>), agenti stabilizzanti (gomma arabica)",
             energy_value: "272 kJ / 65 kcal",
             carbohydrate_value: "1,6 g",
             sugars_value: "1,6 g",
@@ -219,7 +219,7 @@ const translations = {
     rose: {
         en: {
             title: "Prosecco DOC Rosè Brut",
-            ingredients_text: "INGREDIENTS: Grapes, sugar, preservatives and antioxidants (<strong><u>SULPHITES</u></strong>), stabilizing agents (gum arabic)",
+            ingredients_text: "INGREDIENTS: Grapes, sugar, preservatives and antioxidants (<strong><u>sulphites</u></strong>), stabilizing agents (gum arabic)",
             energy_value: "256 kJ / 61 kcal",
             carbohydrate_value: "0.8 g",
             sugars_value: "0.8 g",
@@ -227,7 +227,7 @@ const translations = {
         },
         it: {
             title: "Prosecco DOC Rosè Brut",
-            ingredients_text: "INGREDIENTI: uve, saccarosio, conservanti e antiossidanti (<strong><u>SOLFITI</u></strong>), agenti stabilizzanti (gomma arabica)",
+            ingredients_text: "INGREDIENTI: uve, saccarosio, conservanti e antiossidanti (<strong><u>solfiti</u></strong>), agenti stabilizzanti (gomma arabica)",
             energy_value: "256 kJ / 61 kcal",
             carbohydrate_value: "0,8 g",
             sugars_value: "0,8 g",
@@ -249,7 +249,7 @@ const translations = {
         },
         it: {
             title: "Lugana",
-            ingredients_text: "INGREDIENTI: uve, mosto di uve concentrato, agenti stabilizzanti (acido citrico), regolatori di acidità (contiene acido malico (D,L-/L-) e/o acido tartarico (L(+)-) e/o acido lattico), conservanti e antiossidanti (<strong><u>SOLFITI</u></strong>)",
+            ingredients_text: "INGREDIENTI: uve, mosto di uve concentrato, agenti stabilizzanti (acido citrico), regolatori di acidità (contiene acido malico (D,L-/L-) e/o acido tartarico (L(+)-) e/o acido lattico), conservanti e antiossidanti (<strong><u>solfiti</u></strong>)",
             bottled_text: "Imbottigliato in atmosfera protettiva.",
             nutrition_heading: "Dichiarazione nutrizionale",
             nutrition_basis: "per 100 ml",
@@ -267,7 +267,7 @@ const translations = {
         en: {
             subtitle: "Prosecco DOC Frizzante",
             title: "Aeris",
-            ingredients_text: "INGREDIENTS: grapes, concentrated must, preservatives and antioxidants (<strong><u>SULPHITES</u></strong>), acidity regulator (tartaric acid), stabilizing agents (gum arabic)",
+            ingredients_text: "INGREDIENTS: grapes, concentrated must, preservatives and antioxidants (<strong><u>sulphites</u></strong>), acidity regulator (tartaric acid), stabilizing agents (gum arabic)",
             bottled_text: "Bottled in a protective atmosphere.",
             energy_value: "293 kJ / 70 kcal",
             carbohydrate_value: "1.3 g",
@@ -279,7 +279,7 @@ const translations = {
         it: {
             subtitle: "Prosecco DOC Frizzante",
             title: "Aeris",
-            ingredients_text: "INGREDIENTI: uve, mosto concentrato, conservanti e antiossidanti (<strong><u>SOLFITI</u></strong>), correttore di acidità (acido tartarico), agenti stabilizzanti (gomma arabica)",
+            ingredients_text: "INGREDIENTI: uve, mosto concentrato, conservanti e antiossidanti (<strong><u>solfiti</u></strong>), correttore di acidità (acido tartarico), agenti stabilizzanti (gomma arabica)",
             bottled_text: "Imbottigliato in atmosfera protettiva.",
             energy_value: "293 kJ / 70 kcal",
             carbohydrate_value: "1,3 g",
@@ -295,7 +295,7 @@ const translations = {
         en: {
             subtitle: "Prosecco DOC Treviso Dry",
             title: "Azzurra",
-            ingredients_text: "INGREDIENTS: grapes, sucrose, preservatives and antioxidants (<strong><u>SULPHITES</u></strong>), acidity regulator (tartaric acid), stabilizing agents (gum arabic)",
+            ingredients_text: "INGREDIENTS: grapes, sucrose, preservatives and antioxidants (<strong><u>sulphites</u></strong>), acidity regulator (tartaric acid), stabilizing agents (gum arabic)",
             bottled_text: "Bottled in a protective atmosphere.",
             energy_value: "312 kJ / 75 kcal",
             carbohydrate_value: "2 g",
@@ -305,7 +305,7 @@ const translations = {
         it: {
             subtitle: "Prosecco DOC Treviso Dry",
             title: "Azzurra",
-            ingredients_text: "INGREDIENTI: uve, saccarosio, conservanti e antiossidanti (<strong><u>SOLFITI</u></strong>), correttore di acidità (acido tartarico), agenti stabilizzanti (gomma arabica)",
+            ingredients_text: "INGREDIENTI: uve, saccarosio, conservanti e antiossidanti (<strong><u>solfiti</u></strong>), correttore di acidità (acido tartarico), agenti stabilizzanti (gomma arabica)",
             bottled_text: "Imbottigliato in atmosfera protettiva.",
             energy_value: "312 kJ / 75 kcal",
             carbohydrate_value: "2 g",
@@ -319,7 +319,7 @@ const translations = {
         en: {
             subtitle: "Prosecco DOC Treviso Brut",
             title: "El Brolo",
-            ingredients_text: "INGREDIENTS: grapes, sucrose, preservatives and antioxidants (<strong><u>SULPHITES</u></strong>), acidity regulator (tartaric acid), stabilizing agents (gum arabic)",
+            ingredients_text: "INGREDIENTS: grapes, sucrose, preservatives and antioxidants (<strong><u>sulphites</u></strong>), acidity regulator (tartaric acid), stabilizing agents (gum arabic)",
             bottled_text: "Bottled in a protective atmosphere.",
             energy_value: "293 kJ / 70 kcal",
             carbohydrate_value: "1 g",
@@ -329,7 +329,7 @@ const translations = {
         it: {
             subtitle: "Prosecco DOC Treviso Brut",
             title: "El Brolo",
-            ingredients_text: "INGREDIENTI: uve, saccarosio, conservanti e antiossidanti (<strong><u>SOLFITI</u></strong>), correttore di acidità (acido tartarico), agenti stabilizzanti (gomma arabica)",
+            ingredients_text: "INGREDIENTI: uve, saccarosio, conservanti e antiossidanti (<strong><u>solfiti</u></strong>), correttore di acidità (acido tartarico), agenti stabilizzanti (gomma arabica)",
             bottled_text: "Imbottigliato in atmosfera protettiva.",
             energy_value: "293 kJ / 70 kcal",
             carbohydrate_value: "1 g",
@@ -343,7 +343,7 @@ const translations = {
         en: {
             subtitle: "Prosecco DOC Frizzante",
             title: "PROSECCO DOC TREVISO FRIZZANTE AERIS PICCOLO",
-            ingredients_text: "INGREDIENTS: grapes, concentrated grape must, preservatives and antioxidants (<strong><u>SULPHITES</u></strong>), acidity regulators (tartaric acid, malic acid, citric acid)",
+            ingredients_text: "INGREDIENTS: grapes, concentrated grape must, preservatives and antioxidants (<strong><u>sulphites</u></strong>), acidity regulators (tartaric acid, malic acid, citric acid)",
             bottled_text: "Bottled in a protected atmosphere.",
             energy_value: "276 kJ / 66 kcal",
             carbohydrate_value: "1.8 g",
@@ -355,7 +355,7 @@ const translations = {
         it: {
             subtitle: "Prosecco DOC Frizzante",
             title: "PROSECCO DOC TREVISO FRIZZANTE AERIS PICCOLO",
-            ingredients_text: "INGREDIENTI: uve, mosto di uve concentrato, conservanti e antiossidanti (<strong><u>SOLFITI</u></strong>), regolatori di acidità (acido tartarico, acido malico, acido citrico)",
+            ingredients_text: "INGREDIENTI: uve, mosto di uve concentrato, conservanti e antiossidanti (<strong><u>solfiti</u></strong>), regolatori di acidità (acido tartarico, acido malico, acido citrico)",
             bottled_text: "Imbottigliato in atmosfera protetta.",
             energy_value: "276 kJ / 66 kcal",
             carbohydrate_value: "1,8 g",
@@ -371,7 +371,7 @@ const translations = {
         en: {
             subtitle: "Spumante Prosecco DOC Treviso Extra Dry",
             title: "Runiér",
-            ingredients_text: "INGREDIENTS: grapes, sucrose, preservatives and antioxidants (<strong><u>SULPHITES</u></strong>), acidity regulator (tartaric acid), stabilizing agents (gum arabic)",
+            ingredients_text: "INGREDIENTS: grapes, sucrose, preservatives and antioxidants (<strong><u>sulphites</u></strong>), acidity regulator (tartaric acid), stabilizing agents (gum arabic)",
             bottled_text: "Bottled in a protective atmosphere.",
             energy_value: "300 kJ / 72 kcal",
             carbohydrate_value: "1.8 g",
@@ -381,7 +381,7 @@ const translations = {
         it: {
             subtitle: "Spumante Prosecco DOC Treviso Extra Dry",
             title: "Runiér",
-            ingredients_text: "INGREDIENTI: uve, saccarosio, conservanti e antiossidanti (<strong><u>SOLFITI</u></strong>), correttore di acidità (acido tartarico), agenti stabilizzanti (gomma arabica)",
+            ingredients_text: "INGREDIENTI: uve, saccarosio, conservanti e antiossidanti (<strong><u>solfiti</u></strong>), correttore di acidità (acido tartarico), agenti stabilizzanti (gomma arabica)",
             bottled_text: "Imbottigliato in atmosfera protettiva.",
             energy_value: "300 kJ / 72 kcal",
             carbohydrate_value: "1,8 g",
@@ -395,7 +395,7 @@ const translations = {
         en: {
             subtitle: "Prosecco DOC Treviso Frizzante",
             title: "Spago",
-            ingredients_text: "INGREDIENTS: grapes, concentrated must, preservatives and antioxidants (<strong><u>SULPHITES</u></strong>), acidity regulator (tartaric acid), stabilizing agents (gum arabic)",
+            ingredients_text: "INGREDIENTS: grapes, concentrated must, preservatives and antioxidants (<strong><u>sulphites</u></strong>), acidity regulator (tartaric acid), stabilizing agents (gum arabic)",
             bottled_text: "Bottled in a protective atmosphere.",
             energy_value: "293 kJ / 70 kcal",
             carbohydrate_value: "1.2 g",
@@ -407,7 +407,7 @@ const translations = {
         it: {
             subtitle: "Prosecco DOC Treviso Frizzante",
             title: "Spago",
-            ingredients_text: "INGREDIENTI: uve, mosto concentrato, conservanti e antiossidanti (<strong><u>SOLFITI</u></strong>), correttore di acidità (acido tartarico), agenti stabilizzanti (gomma arabica)",
+            ingredients_text: "INGREDIENTI: uve, mosto concentrato, conservanti e antiossidanti (<strong><u>solfiti</u></strong>), correttore di acidità (acido tartarico), agenti stabilizzanti (gomma arabica)",
             bottled_text: "Imbottigliato in atmosfera protettiva.",
             energy_value: "293 kJ / 70 kcal",
             carbohydrate_value: "1,2 g",
@@ -423,7 +423,7 @@ const translations = {
         en: {
             subtitle: "SPUMANTE PROSECCO DOC TREVISO BRUT",
             title: "Vàlbon",
-            ingredients_text: "INGREDIENTS: grapes, sucrose, preservatives and antioxidants (<strong><u>SULPHITES</u></strong>), acidity regulator (tartaric acid), stabilizing agents (gum arabic)",
+            ingredients_text: "INGREDIENTS: grapes, sucrose, preservatives and antioxidants (<strong><u>sulphites</u></strong>), acidity regulator (tartaric acid), stabilizing agents (gum arabic)",
             bottled_text: "Bottled in a protective atmosphere.",
             energy_value: "293 kJ / 70 kcal",
             carbohydrate_value: "0.8 g",
@@ -433,7 +433,7 @@ const translations = {
         it: {
             subtitle: "SPUMANTE PROSECCO DOC TREVISO BRUT",
             title: "Vàlbon",
-            ingredients_text: "INGREDIENTI: uve, saccarosio, conservanti e antiossidanti (<strong><u>SOLFITI</u></strong>), correttore di acidità (acido tartarico), agenti stabilizzanti (gomma arabica)",
+            ingredients_text: "INGREDIENTI: uve, saccarosio, conservanti e antiossidanti (<strong><u>solfiti</u></strong>), correttore di acidità (acido tartarico), agenti stabilizzanti (gomma arabica)",
             bottled_text: "Imbottigliato in atmosfera protettiva.",
             energy_value: "293 kJ / 70 kcal",
             carbohydrate_value: "0,8 g",
@@ -447,12 +447,12 @@ const translations = {
         en: {
             subtitle: "Valdobbiadene Prosecco Superiore Millesimato DOCG Brut",
             title: "Nani Dei Berti",
-            ingredients_text: "Grapes, sucrose, preservatives and antioxidants (<strong><u>SULPHITES</u></strong>), acidity regulator (tartaric acid), stabilizing agents (gum arabic)."
+            ingredients_text: "Grapes, sucrose, preservatives and antioxidants (<strong><u>sulphites</u></strong>), acidity regulator (tartaric acid), stabilizing agents (gum arabic)."
         },
         it: {
             subtitle: "Valdobbiadene Prosecco Superiore Millesimato DOCG Brut",
             title: "Nani Dei Berti",
-            ingredients_text: "Uve, saccarosio, conservanti e antiossidanti (<strong><u>SOLFITI</u></strong>), correttore di acidità (acido tartarico), agenti stabilizzanti (gomma arabica)."
+            ingredients_text: "Uve, saccarosio, conservanti e antiossidanti (<strong><u>solfiti</u></strong>), correttore di acidità (acido tartarico), agenti stabilizzanti (gomma arabica)."
         },
         es: {
             subtitle: "Valdobbiadene Prosecco Superiore Millesimato DOCG Brut",
@@ -462,14 +462,14 @@ const translations = {
     },
 
     farder: {
-        en: { subtitle: "SPUMANTE PROSECCO DOC TREVISO EXTRA DRY", title: "Fardér", ingredients_text: "INGREDIENTS: grapes, sucrose, preservatives and antioxidants (<strong><u>SULPHITES</u></strong>), acidity regulator (tartaric acid), stabilizing agents (gum arabic).", bottled_text: "Bottled in a protective atmosphere.", energy_value: "300 kJ / 72 kcal", carbohydrate_value: "1.6 g", sugars_value: "1.6 g", salt_value: "0.01 g", sugars_label: "of which sugars", recycling_note: "Check your municipality’s specific recycling guidelines." },
-        it: { subtitle: "SPUMANTE PROSECCO DOC TREVISO EXTRA DRY", title: "Fardér", ingredients_text: "INGREDIENTI: uve, saccarosio, conservanti e antiossidanti (<strong><u>SOLFITI</u></strong>), correttore di acidità (acido tartarico), agenti stabilizzanti (gomma arabica).", bottled_text: "Imbottigliato in atmosfera protettiva.", energy_value: "300 kJ / 72 kcal", carbohydrate_value: "1,6 g", sugars_value: "1,6 g", salt_value: "0,01 g", sugars_label: "di cui zuccheri", recycling_note: "Verifica il sistema di raccolta del tuo comune." },
+        en: { subtitle: "SPUMANTE PROSECCO DOC TREVISO EXTRA DRY", title: "Fardér", ingredients_text: "INGREDIENTS: grapes, sucrose, preservatives and antioxidants (<strong><u>sulphites</u></strong>), acidity regulator (tartaric acid), stabilizing agents (gum arabic).", bottled_text: "Bottled in a protective atmosphere.", energy_value: "300 kJ / 72 kcal", carbohydrate_value: "1.6 g", sugars_value: "1.6 g", salt_value: "0.01 g", sugars_label: "of which sugars", recycling_note: "Check your municipality’s specific recycling guidelines." },
+        it: { subtitle: "SPUMANTE PROSECCO DOC TREVISO EXTRA DRY", title: "Fardér", ingredients_text: "INGREDIENTI: uve, saccarosio, conservanti e antiossidanti (<strong><u>solfiti</u></strong>), correttore di acidità (acido tartarico), agenti stabilizzanti (gomma arabica).", bottled_text: "Imbottigliato in atmosfera protettiva.", energy_value: "300 kJ / 72 kcal", carbohydrate_value: "1,6 g", sugars_value: "1,6 g", salt_value: "0,01 g", sugars_label: "di cui zuccheri", recycling_note: "Verifica il sistema di raccolta del tuo comune." },
         es: { subtitle: "ESPUMOSO PROSECCO DOC TREVISO EXTRA DRY", title: "Fardér", ingredients_text: "Uvas, jarabe de azúcar, conservantes y antioxidantes (<strong><u>sulfitos</u></strong>), agentes estabilizantes (goma arábiga)." }
     },
 
     "cuvee-rose": {
-        en: { subtitle: "Spumante brut", title: "Cuvée Rosé", ingredients_text: "Grapes, sugar syrup, preservatives and antioxidants (<strong><u>SULPHITES</u></strong>), stabilizing agents (gum arabic)." },
-        it: { subtitle: "Spumante brut", title: "Cuvée Rosé", ingredients_text: "Uve, sciroppo zuccherino, conservanti e antiossidanti (<strong><u>SOLFITI</u></strong>), agenti stabilizzanti (gomma arabica)." },
+        en: { subtitle: "Spumante brut", title: "Cuvée Rosé", ingredients_text: "Grapes, sugar syrup, preservatives and antioxidants (<strong><u>sulphites</u></strong>), stabilizing agents (gum arabic)." },
+        it: { subtitle: "Spumante brut", title: "Cuvée Rosé", ingredients_text: "Uve, sciroppo zuccherino, conservanti e antiossidanti (<strong><u>solfiti</u></strong>), agenti stabilizzanti (gomma arabica)." },
         es: { subtitle: "Espumante brut", title: "Cuvée Rosé", ingredients_text: "Uvas, jarabe de azúcar, conservantes y antioxidantes (<strong><u>sulfitos</u></strong>), agentes estabilizantes (goma arábiga)." }
     }
 };
