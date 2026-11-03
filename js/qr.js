@@ -471,6 +471,15 @@ const translations = {
         en: { subtitle: "Spumante brut", title: "Cuvée Rosé", ingredients_text: "Grapes, sugar syrup, preservatives and antioxidants (<strong><u>sulphites</u></strong>), stabilizing agents (gum arabic)." },
         it: { subtitle: "Spumante brut", title: "Cuvée Rosé", ingredients_text: "Uve, sciroppo zuccherino, conservanti e antiossidanti (<strong><u>solfiti</u></strong>), agenti stabilizzanti (gomma arabica)." },
         es: { subtitle: "Espumante brut", title: "Cuvée Rosé", ingredients_text: "Uvas, jarabe de azúcar, conservantes y antioxidantes (<strong><u>sulfitos</u></strong>), agentes estabilizantes (goma arábiga)." }
+    },
+
+    amarone: {
+        en: {
+            ingredients_text: "Grapes, concentrated must, stabilizing agents (gum arabic, citric acid), preservatives and antioxidants (<strong><u>sulphites</u></strong>). Bottled in a protected atmosphere."
+        },
+        it: {
+            ingredients_text: "Uve, mosto concentrato, agenti stabilizzanti (gomma arabica, acido citrico), conservanti e antiossidanti (<strong><u>solfiti</u></strong>). Imbottigliato in atmosfera protettiva."
+        }
     }
 };
 
