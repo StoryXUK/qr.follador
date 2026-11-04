@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 225 225" role="img" aria-labelledby="title">
+  <title id="title">GL 72 recycling symbol</title>
+  <g fill="#000">
+    <path d="M105 24c12-5 25 0 32 12l18 30-13 8 26 12 1-28-12 7-18-30c-10-17-28-23-44-16z"/>
+    <path d="M164 82c10 9 13 23 6 35l-17 30-13-8-1 29 26-11-12-8 17-30c10-17 7-36-6-48z"/>
+    <path d="M145 153H80c-19 0-33-13-34-31l-1-8 14 0-14-25-15 24 14 1 1 8c2 24 21 41 45 41h55z"/>
+    <path d="M42 105l14 8 1-29-26 12 12 8-11 20c-5 11-2 23 7 31l11-12c-4-4-5-9-2-14z"/>
+  </g>
+  <text x="112.5" y="111" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="40" fill="#000">72</text>
+  <text x="112.5" y="196" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="31" fill="#000">GL</text>
+</svg>

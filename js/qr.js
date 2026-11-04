@@ -475,9 +475,11 @@ const translations = {
 
     amarone: {
         en: {
+            title: "Amarone della Valpolicella DOCG",
             ingredients_text: "Grapes, concentrated must, stabilizing agents (gum arabic, citric acid), preservatives and antioxidants (<strong><u>sulphites</u></strong>). Bottled in a protected atmosphere."
         },
         it: {
+            title: "Amarone della Valpolicella DOCG",
             ingredients_text: "Uve, mosto concentrato, agenti stabilizzanti (gomma arabica, acido citrico), conservanti e antiossidanti (<strong><u>solfiti</u></strong>). Imbottigliato in atmosfera protettiva."
         }
     }
